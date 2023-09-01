@@ -1,6 +1,7 @@
  Hi, I’m Heloise Feldmann
- ✨ I've started a becode training in AI dev
- ✨ I'm interested in AI and data science
+ ✨ I am in an internship @RTBF to create datajournalism/viz things
+ ✨ Check<a href="https://www.rtbf.be/article/rechauffement-climatique-en-belgique-les-pauvres-au-chaud-les-riches-au-frais-grand-format-11243914"> our latest article </a>
+ ✨ I'm interested in front end dev mixed with data viz
  ✨ I like creative coding too 
 
 
